@@ -8,7 +8,7 @@ Portfólio pessoal desenvolvido em HTML, CSS e JavaScript apresentando minha jor
 
 ## Motivação
 
-Este projeto nasceu da vontade de unir duas paixões: a dança e a tecnologia. Durante os estudos de desenvolvimento web, criei este site como forma de praticar HTML, CSS e JavaScript na prática — e ao mesmo tempo ter um espaço para registrar minha história no breaking, divulgar meu trabalho como dançarino e apresentar o grupo El-Shammah Crew para o mundo.
+Este projeto nasceu da vontade de unir duas paixões: a dança e a tecnologia. Durante os estudos de desenvolvimento web, criei este site como forma de praticar HTML, CSS e JavaScript na prática — e ao mesmo tempo ter um espaço para registrar minha história no breaking, divulgar meu trabalho como dançarino e apresentar o grupo El-Shammah Crew no qual faço parte.
 
 ---
 
