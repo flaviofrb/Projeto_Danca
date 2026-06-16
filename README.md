@@ -2,7 +2,7 @@
 
 Portfólio pessoal desenvolvido em HTML, CSS e JavaScript apresentando minha jornada como B.boy Iron e dançarino de break.
 
-🔗 **Acesse o site:** [https://flaviofrb.github.io/PortifoliodeDanca/](https://flaviofrb.github.io/PortifoliodeDanca/)
+🔗 **Acesse o site:** https://flaviofrb.github.io/Projeto_Danca/
 
 ---
 
